@@ -1,5 +1,4 @@
 # booking_system
- 
 # BikeRental
 
 I have developed the Bike Rental project using CakePHP3.
