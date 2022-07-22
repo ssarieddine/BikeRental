@@ -1,0 +1,14 @@
+{
+  "name": "sanondaf.com.lb",
+  "short_name": "Sanondaf",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#0379C4",
+  "description": "Touch-less disinfection services",
+  "icons": [{
+    "src": "/img/logo.png",
+    "sizes": "315x77",
+    "type": "image/png"
+  }]
+}
